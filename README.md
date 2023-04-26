@@ -1,6 +1,6 @@
 # Heart-Disease-Prediction
 ## Introduction
-In this project we will evaluate several popular machine learning algorithms such as Logistic Regression, SVC, Decision Tree, KNN, Xgboost, GaussianNB, and Random Forest to determine which model performs the best in predicting heart disease. The accuracy of each model will be compared, and the results will be presented in an accuracy comparison graph. The main objective of this project is to develop an accurate and reliable machine learning model for heart disease prediction that can assist medical professionals in making timely and accurate diagnoses.
+In this project we will evaluate several popular machine learning algorithms such as Logistic Regression, SVC, Decision Tree, KNN, Xgboost, GaussianNB, and Random Forest  & ANN using both Categorical classification & Binary classification to determine which model performs the best in predicting heart disease. The accuracy of each model will be compared, and the results will be presented in an accuracy comparison graph. The main objective of this project is to develop an accurate and reliable machine learning model for heart disease prediction that can assist medical professionals in making timely and accurate diagnoses.
 
 ## **Data info:**
 The dataset is already provided in the repository (here).
@@ -62,8 +62,8 @@ Plotting the confusion matrix
 
 ## **Conclusion:**
 In conclusion, we have evaluated multiple machine learning models such as Logistic
-Regression, SVC, Decision Tree, KNN, Xgboost, GaussianNB, and Random Forest
+Regression, SVC, Decision Tree, KNN, Xgboost, GaussianNB, and Random Forest & ANN using both Categorical classification & Binary classification
 for the prediction of heart disease. Our results showed that the Logistic Regression
-model achieved the highest accuracy (86.89%), outperforming other models. The
+model achieved the highest accuracy (57.8%), outperforming other models & in ANN, Binary classification achieved more accuracy in comparison to the Categorical classification. The
 accuracy comparison graph showed a clear difference in the performance of these
 models, with Logistic Regression being the most suitable algorithm for this problem.
